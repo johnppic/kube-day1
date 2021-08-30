@@ -116,7 +116,7 @@ oc client
     * Run `oc get nodes`
     * Log into the Web UI
 3. Create a project/namespace that matches your name
-first initial + last name e.g. Timothy Allen = timothya `oc new-project timothya`
+first initial + last name e.g. Timothy Allen = tallen `oc new-project tallen'
 
 OpenShift 4 documentation
 -------------------------
