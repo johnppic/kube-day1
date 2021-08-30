@@ -123,7 +123,7 @@ OpenShift 4 documentation
 
 Get comfortable with the openshift 4 documentation as it will guide  you as both a developer and admin.
 
-* [OpenShift 4.5 Docs](https://docs.openshift.com/container-platform/4.5/welcome/index.html)
+* [OpenShift 4 Docs](https://docs.openshift.com/container-platform/latest/welcome/index.html)
 
 deploy an app
 -------------
