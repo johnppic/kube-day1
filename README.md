@@ -132,6 +132,8 @@ deploy an app
 * Use whatever method you would like. 
 * Bonus points if you can hit your application via route.
 
-Links
-* [Create an App](https://docs.openshift.com/container-platform/4.7/applications/application_life_cycle_management/creating-applications-using-cli.html)
-* [Expose a Service](https://docs.openshift.com/container-platform/4.5/cli_reference/openshift_cli/developer-cli-commands.html#expose)
+OpenShift 4.9 Links
+* [Getting Started](https://docs.openshift.com/container-platform/4.9/cli_reference/openshift_cli/getting-started-cli.html#creating-a-new-app)
+* [Create an App](https://docs.openshift.com/container-platform/4.9/applications/creating_applications/creating-applications-using-cli.html)
+* [Expose a Service](https://docs.openshift.com/container-platform/4.9/networking/configuring_ingress_cluster_traffic/configuring-ingress-cluster-traffic-nodeport.html#nw-exposing-service_configuring-ingress-cluster-traffic-nodeport)
+
